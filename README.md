@@ -1,4 +1,5 @@
 Basic Java GUI Application performing CRUD operations
 with the help of MySQL database
 
-![image](https://user-images.githubusercontent.com/81907545/169954819-38b3d631-d91d-4bd2-9fdf-04f9fde63330.png)
+![image](https://user-images.githubusercontent.com/81907545/169955648-3740fecd-195f-458e-b121-218e4dc91af3.png)
+
