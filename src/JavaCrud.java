@@ -314,8 +314,8 @@ public class JavaCrud {
 		
 		JTextPane txtpnDevelopedByDevesh = new JTextPane();
 		txtpnDevelopedByDevesh.setFont(new Font("Tahoma", Font.PLAIN, 12));
-		txtpnDevelopedByDevesh.setText("Developed by Devesh");
-		txtpnDevelopedByDevesh.setBounds(858, 575, 126, 19);
+		txtpnDevelopedByDevesh.setText("Java GUI");
+		txtpnDevelopedByDevesh.setBounds(858, 575, 60, 19);
 		frame.getContentPane().add(txtpnDevelopedByDevesh);
 		
 		JScrollPane scrollPane = new JScrollPane();
